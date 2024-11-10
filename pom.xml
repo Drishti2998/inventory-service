@@ -94,7 +94,8 @@
 							<groupId>org.projectlombok</groupId>
 							<artifactId>lombok</artifactId>
 						</exclude>
-					</excludes>
+					</excludes>				
+                    <finalName>api-gateway</finalName>
 				</configuration>
 			</plugin>
 		</plugins>
