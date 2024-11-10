@@ -95,7 +95,7 @@
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>				
-                    <finalName>api-gateway</finalName>
+                    <finalName>inventory-service</finalName>
 				</configuration>
 			</plugin>
 		</plugins>
